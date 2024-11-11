@@ -8,6 +8,7 @@ The goals for today's lab are:
 - To use the Stack Navigation to access multiple screens
 - To split up all the code into separate files which will allow better management of the code as it expands
 - To adapt a hard-coded Picker list to use items from an array
+- To add an image to a screen
 
 # Part 1
 Clone the repo and get the code working. Create a new file for the style called appstyles.js and place this file in the assets folder. Remove the styles
@@ -22,3 +23,6 @@ Modify the register screen to include fields for firstname, surname, street, cit
 # Part 4
 Modify the Color Picker to use an array rather than a hard-coded list of colors. Add a useState() hook called colorlist. Make sure it's set up as an array of different colors.
 Look up an example of how to use array.map(item => { return <>} style of mapping thorough items in an array. You can also refer to the Cinema Example to see how this is done.
+
+# Part 5
+Add a logo to the home screen.
