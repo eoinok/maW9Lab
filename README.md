@@ -22,3 +22,6 @@ Modify the register screen to include fields for firstname, surname, street, cit
 # Part 4
 Modify the Color Picker to use an array rather than a hard-coded list of colors. Add a useState() hook called colorlist. Make sure it's set up as an array of different colors.
 Look up an example of how to use array.map(item => { return <>} style of mapping thorough items in an array. You can also refer to the Cinema Example to see how this is done.
+
+# Part 5
+Add a logo to the home screen.
