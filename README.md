@@ -8,6 +8,7 @@ The goals for today's lab are:
 - To use the Stack Navigation to access multiple screens
 - To split up all the code into separate files which will allow better management of the code as it expands
 - To adapt a hard-coded Picker list to use items from an array
+- To add an image to a screen
 
 # Part 1
 Clone the repo and get the code working. Create a new file for the style called appstyles.js and place this file in the assets folder. Remove the styles
